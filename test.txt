@@ -1,4 +1,3 @@
-"AadClientId": "53012442-f64c-460e-8d7e-fd7352fa14e6",
-  "AadSecret": "USO8Q~QPEbnN3Y-I4raFGRMKJD3u4PPcvQ3qSabD",
-  "AadTenantDomain": "snst1.onmicrosoft.com",
-  "AadTenantId": "83986a86-25a8-4c48-a44c-02063c86f3e3",
+"AadClientId": "e2aec3c8-dd99-40ae-9836-008f6f3c6934",
+  "AadSecret": "nvo8Q~1W6IiinsEAnuPVd8N84neDApjPhD4hHaIX",
+  "AadTenantId": "a7f35688-9c00-4d5e-ba41-29f146377ab0",
